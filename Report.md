@@ -53,7 +53,7 @@ A thing that can be added is a second use-case to label interactions by building
 
 
 ## Blog during GSoC
-The blogs I wrote during GSoC period can be found here [Blogs](https://github.com/robocomp/web/blob/master/gsoc/2020/posts/index.md#rishabh-baghel)
+The blogs I wrote during GSoC period can be found here [Blogs](https://robocomp.github.io/web/gsoc/2020/posts/)
 
 
 ## Social
